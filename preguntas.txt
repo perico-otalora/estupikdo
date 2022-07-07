@@ -1,0 +1,36 @@
+¿Cuál es la quinta letra del alfabeto latino?,D,E,C,H,B
+¿Cuántos céntimos son 1€?,100,1000,50,250,A
+¿En qué mes se produce en el hemisferio norte el solsticio de verano?,Febrero,Septiembre,Junio,Marzo,C
+¿Quién pintó Las Meninas?,Pablo Picasso,Diego Velázquez,Joaquín Sorolla,El Greco,B
+¿Cuál es la capital del Principado de Asturias?,Oviedo,Gijón,Avilés,Covandonga,A
+¿En qué año terminó la 2ª Guerra Mundial?,1919,1989,1939,1945,D
+¿Cuál es el ángulo de inclinación del eje de rotación de la Tierra?,23º 26’,21º 11’,18º 30’,20º,A
+¿Cuál es la capital de Canadá?,Montreal,Vancuver,Ottawa,Toronto,C
+¿Cuál de estos monumentos no están en Londres?,El Big Ben,El Parlamento,La Abadía de Westminster,La Torre Eiffel,D
+En informática ¿Cuántos bits conforman un byte?,16,8,10,20,B
+Cuál de estos presidentes NO FUE de Estados Unidos,Barack Obama,Thomas Jefferson,Donald Trump,Nicolas Sarkozy,D
+¿Qué acontecimiento sucedió el 11 de septiembre del 2001?,La caida del Muro de Berlin,España ganó Eurovisión,Atentado Torres Gemelas New York,1ª victoria Fernando Alonso en F1,C
+¿En cuál de estos países se conduce por la izquierda?,Rusia,Brasil,Japón,Irán,C    
+¿Qué modelo de Ordenador Personal salió antes al mercado?,Apple II,Sinclair ZX Spectrum,Commodore Amiga,Apple IMac,A
+¿De qué árbol se obtiene el corcho?,Eucalipto,Alcornoque,Castaño,Palmera datilera,B  
+¿En qué año se publicó la segunda parte del Quijote?,1615,1605,1584,1621,A
+¿De qué color es la franja superior de la bandera de Alemania?,Amarilla,Roja,Verde,Azul,B
+¿Cuál fue el primer modelo de automóvil de SEAT?,600,850,1400,Ibiza,C
+¿Cuál de estos alimentos de origen vegetal NO es una legumbre?,Guisante,Garbanzo,Lenteja,Arroz,D
+¿Cuál es la ciudad más poblada de Brasil?,Rio de Janeiro,Sao Paulo,Brasilia,Porto Alegre,B
+¿En qué año se fundó la Real Academia de la Lengua Española?,1702,1654,1713,1821,C
+¿Quién fue el Premio Nobel de Física en 1939?,Albert Einstein,Ernest Lawrence,Marie Curie,Richard Feynman,B
+¿Quién fue el director de la Película Terminator II?,Arnold Schwarzenegger,Steven Spielberg,James Cameron,Ridley Scott,C
+¿Cuál de estos países hace frontera con Irán?,China,India,Grecia,Azerbaiyan,D
+Secretario General Partido Comunista de la URSS entre 1982 y 1984,Konstatín Chernenko,Yuri Andropov,Leonid Brezhnev,Mijail Gorbachov,B
+Equipo ganador Copa de Europa Balonmano masculino temp. 2014-2015,FC Barcelona,THW Kiel,BM Ciudad Real,Paris Saint-Germain,A
+¿Cuál es el edificio más alto  de Nueva York actualmente?,Empire State Building,432 Park Avenue,ONE World Trade Center,Edificio Chrysler,C
+¿Qué equipo ganó la Supercopa de Fútbol de Suecia en el año 2012?,AIK Estocolmo,Helsinborgs IF,Malmö FF,DF Elfsborgs,B
+¿Cuántas barras horizontales rojas tiene la bandera de Cataluña?,4,5,5,6,A
+Film ganador del Becerro de oro mejor película neerlandesa año 2000,Lek,Nynke,Black Butterflies,Paridise Now,A
+Campeón actual de la Superliga Femenina de Volleyball de España,Voley Murcia,J.A.V. Olímpico Las Palmas,FC Barcelona,C.V.Haro,B   
+Capital del Estado no reconocido internacionalmente de Transnistria,Tiraspol,Chisináu,Ribnita,Dubasari,A
+¿Cuáles son los gases más presentes en la atmósfera de Venus?,Nitrógeno - Helio y Vapor de Agua,Hidrogeno y Dióxido de Carbono,Dióxido de Carbono y Nitrógeno,Nitrógeno y Oxígeno,C
+¿Cuál de estas lenguas europeas no es de origen indoeuropeo?,Gaélico escocés,Albanes,Osetio,Estonio,D
+¿Qué es un BLOB en informática?,Objetos binarios en bases de datos,Paquete de datos hexadecimal,Programa informático,Imagen raster,D
+Municipio español nº 254 en población,Hellín,Crevillente,Valdepeñas,Lepe,D
