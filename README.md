@@ -7,6 +7,6 @@ El proyecto ha sido realizado entre enero y mayo de 2022.
 
 Los integrantes del grupo son:
 - Alonso González: desarrollo de preguntas
-- David Bobadilla: idea desarrollo de gráficos
+- David Bobadilla: idea y desarrollo de gráficos
 - Juan Antonio Sánchez: desarrollo del logotipo
 - Pedro Otálora: desarrollo y programación del código en python
